@@ -4,11 +4,6 @@ import numpy as np
 import librosa
 from model import *
 import data
-
-
-__author__ = 'namju.kim@kakaobrain.com'
-
-
 # set log level to debug
 tf.sg_verbosity(10)
 
